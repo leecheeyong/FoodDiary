@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+<img src="./public/logo.png" width="150">
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Food Diary
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+A place for the community to share their dining experience all over the world. Add, edit, search your favorite dishes and restaurant experiences, complete with photos, ratings, price, and notes.
+
+## Features
+
+- Add new food memories with restaurant, dish, cuisine, location, rating, price, notes, and photo
+- Edit and update existing entries
+- Search and filter your food memories
+- Responsive design for desktop and mobile
+- Image upload via Imgur & ImgBB
+
+## License
+
+LyingMan is available as open source under the terms of the [MIT License](https://github.com/leecheeyong/LyingMan/blob/main/LICENSE).
+
