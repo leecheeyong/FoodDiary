@@ -70,9 +70,16 @@ const handleCloseEditModal = () => {
     <header class="bg-white shadow-sm border-b border-gray-200">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center py-6">
-          <div>
-            <h1 class="text-3xl font-bold text-gray-900">Food Diary</h1>
-            <p class="text-gray-600 mt-1">Culinary journey for the community</p>
+          <div class="flex items-center gap-3">
+            <img
+              src="/logo.png"
+              alt="Food Diary Logo"
+              class="h-10 w-10 object-contain"
+            />
+            <div>
+              <h1 class="text-3xl font-bold text-gray-900">Food Diary</h1>
+              <p class="text-gray-600 mt-1">Culinary journey for the community</p>
+            </div>
           </div>
 
           <button
@@ -170,4 +177,25 @@ const handleCloseEditModal = () => {
       @close="handleCloseEditModal"
     />
   </div>
+   <footer class="py-8 text-center text-gray-500 text-sm">
+      <p>
+        Made with <span class="text-red-500">❤️</span> by
+        <a
+          href="https://github.com/leecheeyong"
+          target="_blank"
+          class="text-gray-700 hover:underline"
+        >
+          Chee Yong Lee
+        </a>
+      </p>
+      <p class="mt-1">
+        Project available as open source under the terms of
+        <a
+          href="https://github.com/leecheeyong/FoodDiary/blob/main/LICENSE"
+          target="_blank"
+          class="text-gray-700 hover:underline"
+          >MIT License</a
+        >
+      </p>
+    </footer>
 </template>

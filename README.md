@@ -12,7 +12,9 @@ A place for the community to share their dining experience all over the world. A
 - Responsive design for desktop and mobile
 - Image upload via Imgur & ImgBB
 
+## Credits
+This app was inspired by the [Food Discovery App](https://fooddiscoveryapp.com/)
+
 ## License
 
 FoodDiary is available as open source under the terms of the [MIT License](https://github.com/leecheeyong/FoodDiary/blob/main/LICENSE).
-
