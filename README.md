@@ -14,5 +14,5 @@ A place for the community to share their dining experience all over the world. A
 
 ## License
 
-LyingMan is available as open source under the terms of the [MIT License](https://github.com/leecheeyong/LyingMan/blob/main/LICENSE).
+FoodDiary is available as open source under the terms of the [MIT License](https://github.com/leecheeyong/FoodDiary/blob/main/LICENSE).
 
