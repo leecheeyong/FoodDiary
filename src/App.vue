@@ -77,7 +77,7 @@ const handleCloseEditModal = () => {
               class="h-10 w-10 object-contain"
             />
             <div>
-              <h1 class="text-3xl font-bold text-gray-900">Food Diary</h1>
+              <h1 class="text-3xl font-bold text-gray-900">FoodDiary</h1>
               <p class="text-gray-600 mt-1">Culinary journey for the community</p>
             </div>
           </div>
